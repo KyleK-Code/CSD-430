@@ -1,0 +1,10 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <short-name>custom</short-name>
+
+    <tag>
+        <name>hello</name>
+        <tag-class>HelloTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
